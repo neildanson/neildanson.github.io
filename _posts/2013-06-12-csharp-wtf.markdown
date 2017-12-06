@@ -13,7 +13,7 @@ So no cheating now.
 
 What do you expect the output of this code to be?
 
-{% highlight f# %}
+{% highlight c# %}
 var n = new Nullable<int>();
 if (n == null)
     Console.WriteLine("n is null");
